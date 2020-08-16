@@ -1,0 +1,25 @@
+body {
+    font-size: 15pt;
+}
+#offff{
+  height:50%;
+  width:100%;
+  background-color:#82848A;
+  text-align: center;
+}
+#on{
+  color: white;
+  background-color:#24A439;
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  border:2px;
+}
+#off{
+  color: white;
+  background-color:#7E190A;
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  border:2px;
+}
